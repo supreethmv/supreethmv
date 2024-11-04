@@ -2,7 +2,7 @@
 
 [![Visit My Website](https://img.shields.io/badge/Visit-My%20Website-blue?style=for-the-badge)](https://www.supreethmv.com)
 
-[![Visit My Blog](https://img.shields.io/badge/Visit-My%20Website-blue?style=for-the-badge)](https://www.supreethmv.com/blog)
+[![Visit My Blog](https://img.shields.io/badge/Visit-My%20Blog-Green?style=for-the-badge)](https://www.supreethmv.com/blog)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supreethmv&label=Profile%20views&color=0e75b6&style=flat" alt="supreethmv" /> </p>
 

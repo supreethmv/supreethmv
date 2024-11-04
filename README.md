@@ -2,21 +2,25 @@
 
 [![Visit My Website](https://img.shields.io/badge/Visit-My%20Website-blue?style=for-the-badge)](https://www.supreethmv.com)
 
+[![Visit My Blog](https://img.shields.io/badge/Visit-My%20Website-blue?style=for-the-badge)](https://www.supreethmv.com/blog)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supreethmv&label=Profile%20views&color=0e75b6&style=flat" alt="supreethmv" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supreethmv" alt="supreethmv" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/supreeth_mv" target="blank"><img src="https://img.shields.io/twitter/follow/supreeth_mv?logo=twitter&style=for-the-badge" alt="supreeth_mv" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [supreethmv.com/projects, supreethmv.com/research](supreethmv.com/projects, supreethmv.com/research)
+- 👨‍💻 All of my projects are available at [supreethmv.com/projects](https://www.supreethmv.com/projects)
 
-- 📝 I regularly write articles on [supreethmv.com/blog, supreethmv.com/blogs](supreethmv.com/blog, supreethmv.com/blogs)
+- 🔬 Find more about my research at [supreethmv.com/research](https://www.supreethmv.com/research)
+
+- 📝 I regularly write articles on [supreethmv.com/blog](https://www.supreethmv.com/blog)
 
 - 💬 Ask me about **Quantum Computing, Artificial Intelligence**
 
 - 📫 How to reach me **contact@supreethmv.com**
 
-- 📄 Know about my experiences [supreethmv.com](supreethmv.com)
+- 📄 Know about my experiences [supreethmv.com/experiences](https://www.supreethmv.com/experiences)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

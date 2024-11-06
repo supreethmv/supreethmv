@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Supreeth Mysore Venkatesh</h1>
 
+<p align="left">
+<img src="https://github.com/Shivansh20128/Shivansh20128/blob/3d5c8db066179249ae9ec42449d0253aee8d3885/octocat-1696150297184.png" alt="octocat" width="335" ">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt"workspace" width="330">
+</p>
+
 [![Visit My Website](https://img.shields.io/badge/Visit-My%20Website-blue?style=for-the-badge)](https://www.supreethmv.com)
 
 [![Visit My Blog](https://img.shields.io/badge/Visit-My%20Blog-Green?style=for-the-badge)](https://www.supreethmv.com/blog)
